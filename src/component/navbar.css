@@ -3,6 +3,7 @@
     position: sticky;
     top: 0;
     background-color: rgb(24, 168, 184);
+border-bottom-style:hidden;
 margin-bottom: 100%;
 z-index: 5;
 }
